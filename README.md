@@ -1,4 +1,4 @@
-### Hi All, thanks for stopping by 🎉
+### Hey All, thanks for stopping by 🎉
 
 I'm Andy and I currenly build cool products at Autologyx. Born and raised in Hampshire, UK and currently living in Surrey.
 
