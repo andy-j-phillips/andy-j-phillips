@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi All, thanks for stopping by 🎉
 
+I'm Andy and I currenly build cool products at Autologyx. Born and raised in Hampshire, UK and living in Surrey.
+
+````
+
+📍 Living in Surrey, UK
+
+💼 Currently working at Autologyx Ltd.
+
+🚀 Interested in JavaScript, TypeScript, React, Angular, Python.
+
+````
+If you're interested in collaborating, feel free to contact me via [Twitter](https://twitter.com/ANDY_J_Phill).
+<!--
 <!--
 **andy-j-phillips/andy-j-phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
