@@ -6,8 +6,6 @@ I'm Andy and I currenly build cool products at Veterinary Emergency Group. Born 
 
 📍 Living in Wayne, NJ.
 
-💼 Currently working at Veterinary Emergency Group
-
 🚀 Interested in JavaScript, TypeScript, React, Angular, Python.
 
 ````
