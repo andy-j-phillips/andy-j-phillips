@@ -4,22 +4,8 @@ I'm Andy and I currenly build cool products at Jabra Hearing.
 
 ````
 
-📍 Living in Greater NYC Area
+- 📍 Living in Greater NYC Area
+- 🚀 Interested in TypeScript, React, Next.js
+- 🔭 I’m currently working on [filemanager](https://github.com/andy-j-phillips/filemanager)
+- 📫 How to reach me: andy.j.phillips@outlook.com
 
-🚀 Interested in, TypeScript, React, Next.js
-
-<!--
-<!--
-**andy-j-phillips/andy-j-phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
