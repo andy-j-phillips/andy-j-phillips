@@ -1,15 +1,13 @@
 ### Hey All, thanks for stopping by 🎉
 
-I'm Andy and I currenly build cool products at Veterinary Emergency Group. Born and raised in Hampshire, UK and currently living in NJ.
+I'm Andy and I currenly build cool products at Jabra Hearing.
 
 ````
 
-📍 Living in Wayne, NJ.
+📍 Living in Greater NYC Area
 
-🚀 Interested in JavaScript, TypeScript, React, Angular, Python.
+🚀 Interested in, TypeScript, React, Next.js
 
-````
-If you're interested in collaborating, feel free to contact me via [Twitter](https://twitter.com/ANDY_J_Phill).
 <!--
 <!--
 **andy-j-phillips/andy-j-phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
